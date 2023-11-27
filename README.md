@@ -1,4 +1,4 @@
-# hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090
+# hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090-128GB-RAM-DDR5-6200Mhz
 13900K / RTX 3090 / 128GB RAM DDR5 6200Mhz
 ![73748053_DESKTOP-1AR1GHP27112023_183016](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090/assets/10823037/4cf9e3a2-b965-4b80-ac5e-4ef0b9feaa6b)
 ![z4920921323130_72f4c4619b582644a1b040a114c6f14e](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090/assets/10823037/31a92266-66ee-449b-b678-e6b06f98b021)
