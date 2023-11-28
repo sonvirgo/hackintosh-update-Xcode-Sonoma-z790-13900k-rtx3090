@@ -8,4 +8,4 @@
 ![73748053_DESKTOP-1AR1GHP27112023_182050](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090/assets/10823037/f66dbd63-b57f-4168-9366-3d4baeb37dd2)
 
 
-1AR1GHP27112023_202721](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090/assets/10823037/1494c4a6-c67a-48f4-b58c-347280a6bd02)
+![73748053_DESKTOP-1AR1GHP27112023_202721](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090/assets/10823037/1494c4a6-c67a-48f4-b58c-347280a6bd02)
