@@ -11,3 +11,5 @@
 
 ![image](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090-128GB-DDR5-6200Mhz-10TB-5x5-NVMe/assets/10823037/c27aa7a9-0756-4d9d-985c-60c9570c5810)
 ![image](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090-128GB-DDR5-6200Mhz-10TB-5x5-NVMe/assets/10823037/b1ad2b9a-49fb-4f72-8852-ffd6e99143a6)
+
+![image](https://github.com/sonvirgo/hackintosh-update-Xcode-Sonoma-z790-13900k-rtx3090-128GB-DDR5-6200Mhz-10TB-5x5-NVMe/assets/10823037/ee6ef313-2eda-4f31-b00c-262504500323)
